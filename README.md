@@ -1,2 +1,1 @@
-# SinglePageCv
-https://hitechltd.github.io/SinglePageCv/
+https://github.com/hitechLtd/SinglePageCv
