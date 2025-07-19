@@ -1,1 +1,2 @@
-https://github.com/hitechLtd/SinglePageCv
+SinglePageCv
+[project url]:(https://hitechltd.github.io/SinglePageCv/)
